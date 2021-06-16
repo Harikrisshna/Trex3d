@@ -1,6 +1,6 @@
 # 🦖 T-Rex Run 3D
-Play the game here: http://priler.github.io/dino3d/low.html  
-Alt. version with best quality settings for high-end PCs: http://priler.github.io/dino3d/
+Play the game here: http://harikrisshna.github.io/dino3d/low.html  
+Alt. version with best quality settings for high-end PCs: http://harikrisshna.github.io/dino3d/
 
 # Description
 T-Rex Run 3D is a ThreeJS WebGL game made as an experiment.  
@@ -52,8 +52,7 @@ https://github.com/addyosmani/visibly.js/ - Page Visibility API shim
 
 ## Author
 
-(C) 2020 Abraham Tugalov.
-http://howdyho.net
+(C) 2020 K.
 
 ## Contributors
 - Aidar Ayupov <https://github.com/preposition17> & Vildan Safin <https://github.com/Enigma228322> for inspiration about 3D models
